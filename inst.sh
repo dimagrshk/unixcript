@@ -31,4 +31,5 @@ sudo apt-get install oracle-java8-installer
 # ===Curl===
 sudo apt install curl
 
-
+# ===Chromium===
+sudo apt-get install chromium-browser
