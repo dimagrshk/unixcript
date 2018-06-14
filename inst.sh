@@ -33,3 +33,7 @@ sudo apt install curl
 
 # ===Chromium===
 sudo apt-get install chromium-browser
+
+# === jq ===
+sudo apt  install jq
+
